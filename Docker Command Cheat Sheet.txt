@@ -1,4 +1,4 @@
-*Docker Command Cheat Sheet*
+Docker Command Cheat Sheet
 Given our affinity for Docker, we wanted to pass along some tips and best practices for using it at the command-line. To do that we’ve created a convenient Docker Commands Cheat Sheet to help improve your work flow. Now, you can avoid having to search for these shortcuts every time you open the software. Neat, right?
 
 For those who are relatively new to container technology, Docker’s complexity lies in its diffuse set of commands. Once you understand the basic structure, leveraging the command-line is straightforward.
